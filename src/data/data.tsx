@@ -44,8 +44,8 @@ import {
  * Page meta data
  */
 export const homePageMeta: HomepageMeta = {
-  title: 'React Resume Template',
-  description: "Example site built with Tim Baker's react resume template",
+  title: 'Defuse',
+  description: "Construa a autoridade da sua marca através do seu posicionamento digital!",
 };
 
 /**
